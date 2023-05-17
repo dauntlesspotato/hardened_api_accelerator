@@ -1,0 +1,8 @@
+accelerator:
+  displayName: Hardened Internal API 
+  description: Template for creating a hardened internally-facing API
+  iconUrl: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTHV6Ou05-nuX0t3U1fHJWm-wZnBPvD5xrCw&usqp=CAU
+  tags:
+  - simple
+  - getting-started
+  - ATO-Fast-Track
